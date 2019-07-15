@@ -1,0 +1,272 @@
+{
+    "firstDate": "18 Junho 2019",
+    "lastUpdate": "20190707T141103.000Z",
+    "numberOfWars": 10,
+    "stats": [
+        {
+            "name": "Tó Nelson",
+            "wins": 9,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Vasc0",
+            "wins": 9,
+            "warsPlayed": 10
+        },
+        {
+            "name": "mad4win",
+            "wins": 8,
+            "warsPlayed": 10
+        },
+        {
+            "name": "odagrom",
+            "wins": 8,
+            "warsPlayed": 10
+        },
+        {
+            "name": "WEclashED",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Clarity",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "aspeçada7",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Migas",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "cmppa",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Vitor Maia",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Marko",
+            "wins": 7,
+            "warsPlayed": 10
+        },
+        {
+            "name": "muck4mept",
+            "wins": 7,
+            "warsPlayed": 9
+        },
+        {
+            "name": "trevo-escocia",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "escavaca bacias",
+            "wins": 6,
+            "warsPlayed": 8
+        },
+        {
+            "name": "Svetlana",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Punker",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "tiagofl",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "tygerwoods",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Ja te f*di",
+            "wins": 6,
+            "warsPlayed": 10
+        },
+        {
+            "name": "mira punk",
+            "wins": 6,
+            "warsPlayed": 9
+        },
+        {
+            "name": "TrueFast",
+            "wins": 6,
+            "warsPlayed": 7
+        },
+        {
+            "name": "Hornpower",
+            "wins": 6,
+            "warsPlayed": 8
+        },
+        {
+            "name": "Pi100PÉ",
+            "wins": 5,
+            "warsPlayed": 8
+        },
+        {
+            "name": "guiWall",
+            "wins": 5,
+            "warsPlayed": 7
+        },
+        {
+            "name": "XANDE",
+            "wins": 5,
+            "warsPlayed": 10
+        },
+        {
+            "name": "zeca",
+            "wins": 5,
+            "warsPlayed": 9
+        },
+        {
+            "name": "Dogas",
+            "wins": 5,
+            "warsPlayed": 9
+        },
+        {
+            "name": "Carpinteiro",
+            "wins": 5,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Joel (PORTUGAL)",
+            "wins": 5,
+            "warsPlayed": 8
+        },
+        {
+            "name": "MultiAlexR1",
+            "wins": 5,
+            "warsPlayed": 10
+        },
+        {
+            "name": "Quintanilha",
+            "wins": 5,
+            "warsPlayed": 10
+        },
+        {
+            "name": "fão game play",
+            "wins": 5,
+            "warsPlayed": 9
+        },
+        {
+            "name": "oliveira1113",
+            "wins": 5,
+            "warsPlayed": 8
+        },
+        {
+            "name": "tugasempre",
+            "wins": 5,
+            "warsPlayed": 5
+        },
+        {
+            "name": "✌Pinheiro ✌",
+            "wins": 5,
+            "warsPlayed": 10
+        },
+        {
+            "name": "bmc",
+            "wins": 4,
+            "warsPlayed": 8
+        },
+        {
+            "name": "$marco$",
+            "wins": 4,
+            "warsPlayed": 8
+        },
+        {
+            "name": "Paulo",
+            "wins": 4,
+            "warsPlayed": 3
+        },
+        {
+            "name": "Rúben Costa",
+            "wins": 4,
+            "warsPlayed": 8
+        },
+        {
+            "name": "ricardoflip",
+            "wins": 3,
+            "warsPlayed": 5
+        },
+        {
+            "name": "Ortega",
+            "wins": 3,
+            "warsPlayed": 3
+        },
+        {
+            "name": "Rique",
+            "wins": 3,
+            "warsPlayed": 4
+        },
+        {
+            "name": "☆Telmo1986☆",
+            "wins": 3,
+            "warsPlayed": 3
+        },
+        {
+            "name": "JotaEle",
+            "wins": 2,
+            "warsPlayed": 5
+        },
+        {
+            "name": "CARLHO",
+            "wins": 2,
+            "warsPlayed": 8
+        },
+        {
+            "name": "⚡️⚡️tanisca⚡️⚡️",
+            "wins": 2,
+            "warsPlayed": 2
+        },
+        {
+            "name": "D_D EASY",
+            "wins": 2,
+            "warsPlayed": 2
+        },
+        {
+            "name": "DaMiR04",
+            "wins": 2,
+            "warsPlayed": 4
+        },
+        {
+            "name": "Vasko",
+            "wins": 2,
+            "warsPlayed": 2
+        },
+        {
+            "name": "Chapinha",
+            "wins": 1,
+            "warsPlayed": 2
+        },
+        {
+            "name": "Lil'Pablo",
+            "wins": 1,
+            "warsPlayed": 1
+        },
+        {
+            "name": "xivox",
+            "wins": 0,
+            "warsPlayed": 2
+        },
+        {
+            "name": "MOTA_PT",
+            "wins": 0,
+            "warsPlayed": 2
+        }
+    ]
+}
